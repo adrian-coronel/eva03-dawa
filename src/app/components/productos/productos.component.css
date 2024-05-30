@@ -1,0 +1,9 @@
+.color-personalized {
+  cursor: pointer;
+  color: black;
+  background-color: white;
+}
+.color-personalized:hover{
+  color: white;
+  background-color: #e03a3c;
+}
